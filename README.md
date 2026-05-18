@@ -111,9 +111,9 @@ fueled_by: coffee && curiosity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vishwa-Thangapandiyan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=7ee787&text_color=8b949e&include_all_commits=true&count_private=true&cache_seconds=1800" alt="github stats" height="170" />
+<img src="https://github-readme-stats-three-psi-2v3t5gmmb3.vercel.app/api?username=Vishwa-Thangapandiyan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=7ee787&text_color=8b949e&include_all_commits=true&count_private=true" alt="github stats" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwa-Thangapandiyan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=8b949e&langs_count=8&cache_seconds=1800" alt="top languages" height="170" />
+<img src="https://github-readme-stats-three-psi-2v3t5gmmb3.vercel.app/api/top-langs/?username=Vishwa-Thangapandiyan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=8b949e&langs_count=8" alt="top languages" height="170" />
 
 </div>
 
