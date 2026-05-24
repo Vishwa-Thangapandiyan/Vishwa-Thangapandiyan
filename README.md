@@ -82,17 +82,17 @@ fueled_by: coffee && curiosity
 ## `// pinned projects`
 
 ```javascript
-// → synthetic-dataset-generator
-//   web tool to generate clean synthetic datasets for ML experiments
-//   stack: html · python · jupyter
+// → local-rag-pipeline
+//   end-to-end RAG system over documents using ollama + chromadb
+//   stack: python · ollama · chromadb · jupyter
+
+// → financial-headline-generator
+//   generative NLP models trained on financial news data
+//   stack: python · jupyter
 
 // → adaptive-learning-platform
 //   personalized learning system that adjusts to user pace
 //   stack: jupyter · ml · python
-
-// → electricity-bill-predictor
-//   regression model forecasting household electricity cost
-//   stack: jupyter · scikit-learn · pandas
 
 // → open-source-tools-dashboard
 //   curated dashboard of useful OSS tools for devs
