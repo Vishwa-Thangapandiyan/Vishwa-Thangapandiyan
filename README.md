@@ -56,8 +56,8 @@ fueled_by: coffee && curiosity
 <img src="https://img.shields.io/badge/PyTorch-0d2016?style=flat-square&logo=pytorch&logoColor=7ee787&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/scikit--learn-0d2016?style=flat-square&logo=scikit-learn&logoColor=7ee787&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Pandas-0d2016?style=flat-square&logo=pandas&logoColor=7ee787&labelColor=0d1117" />
-< src="https://.shields.io/badge/NumPy-0d2016?style=flat-square&logo=numpy&logoColor=7ee787&labelColor=0d1117" />
-< src="https://.shields.io/badge/Jupyter-0d2016?style=flat-square&logo=jupyter&logoColor=7ee787&labelColor=0d1117" />
+<img src="https://.shields.io/badge/NumPy-0d2016?style=flat-square&logo=numpy&logoColor=7ee787&labelColor=0d1117" />
+<img src="https://.shields.io/badge/Jupyter-0d2016?style=flat-square&logo=jupyter&logoColor=7ee787&labelColor=0d1117" />
 </p>
 
 **`> web`**
