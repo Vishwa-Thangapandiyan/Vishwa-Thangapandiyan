@@ -56,8 +56,8 @@ fueled_by: coffee && curiosity
 <img src="https://img.shields.io/badge/PyTorch-0d2016?style=flat-square&logo=pytorch&logoColor=7ee787&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/scikit--learn-0d2016?style=flat-square&logo=scikit-learn&logoColor=7ee787&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Pandas-0d2016?style=flat-square&logo=pandas&logoColor=7ee787&labelColor=0d1117" />
-<img src="https://.shields.io/badge/NumPy-0d2016?style=flat-square&logo=numpy&logoColor=7ee787&labelColor=0d1117" />
-<img src="https://.shields.io/badge/Jupyter-0d2016?style=flat-square&logo=jupyter&logoColor=7ee787&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/NumPy-0d2016?style=flat-square&logo=numpy&logoColor=7ee787&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Jupyter-0d2016?style=flat-square&logo=jupyter&logoColor=7ee787&labelColor=0d1117" />
 </p>
 
 **`> web`**
@@ -110,6 +110,7 @@ fueled_by: coffee && curiosity
 ## `// github stats`
 
 <div align="center">
+
 <img src="https://github-readme-stats-three-psi-2v3t5gmmb3.vercel.app/api?username=Vishwa-Thangapandiyan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=7ee787&text_color=8b949e&include_all_commits=true&count_private=true" alt="github stats" height="170" />
 
 <img src="https://github-readme-stats-three-psi-2v3t5gmmb3.vercel.app/api/top-langs/?username=Vishwa-Thangapandiyan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=8b949e&langs_count=8" alt="top languages" height="170" />
